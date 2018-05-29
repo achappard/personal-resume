@@ -5,6 +5,6 @@
 	<p class="text-center">
 		Fort de <strong>12 années d’expérience</strong> et spécialisé dans le <strong>développement front-end PHP</strong>, je peux répondre à votre problématique de développement de site internet Wordpress et plus généralement PHP.
 		<br>
-		N'hésitez pas à consulter <a href="#">mon site professionnel</a> afin de parcourir mes références.
+		N'hésitez pas à consulter <a href="http://www.deefuse.fr" target="_blank">mon site professionnel</a> afin de parcourir mes références.
 	</p>
 </section>
