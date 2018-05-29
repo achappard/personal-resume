@@ -37,7 +37,7 @@
                     <div class="timeline-background">
                         <p class="date">2008</p>
                         <div class="logo"><a href="https://www.smile.eu/fr" target="_blank"><img src="dist/assets/img/logo-smile.png" class="img-responsive center-block" alt="Logo Smile"></a></div>
-                        <div class="job text-uppercase">Développeur Flasg // AS3</div>
+                        <div class="job text-uppercase">Développeur Flash // AS3</div>
                         <div class="job-description">
                             <p>
                                 J’ai rejoins Smile dans le but de monter la web agency lyonnaise du Groupe.  Développement de site full-flash, recrutement Flasheur, intégrateur HTML
