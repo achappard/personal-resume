@@ -1,0 +1,17 @@
+section#short-profil{
+    p{
+        font-size: 20px;
+        font-weight: 300;
+    }
+}
+
+/**
+* Small Screen - Breack point
+*/
+@media (min-width: $screen-sm-min) {
+    section#short-profil{
+        p{
+            padding: 0px 25px;
+        }
+    }
+}

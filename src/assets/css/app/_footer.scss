@@ -1,0 +1,15 @@
+section#footer.resume-section{
+    margin-top: 0px;
+    margin-bottom: 20px;
+
+    @include social-menu(#b3b3b3, #FFFFFF);
+}
+
+/**
+* Small Screen - Breack point
+*/
+@media (min-width: $screen-sm-min) {
+    section#footer.resume-section{
+        margin-top: 20px;
+    }
+}

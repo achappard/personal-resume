@@ -1,0 +1,92 @@
+.css-animation-element {
+    opacity: 0;
+    position: relative;
+}
+.transitiondelay-02{transition-delay: 0.2s !important;}
+.transitiondelay-04{transition-delay: 0.4s !important;}
+.transitiondelay-06{transition-delay: 0.6s !important;}
+.transitiondelay-08{transition-delay: 0.8s !important;}
+
+
+
+.css-animation-element.css-fade {
+    opacity: 0;
+}
+
+.css-animation-element.css-fade.in-view {
+    opacity: 1;
+    transition: all 0.3s ease-out;
+}
+
+.css-animation-element.css-visible {
+    opacity: 0;
+}
+
+.css-animation-element.css-visible.in-view {
+    opacity: 1;
+}
+
+
+
+.css-animation-element.css-slide-left {
+    opacity: 0;
+    transition: all 0.3s ease-out;
+    transform: translate3d(-100px, 0px, 0px);
+}
+
+.css-animation-element.css-slide-left.in-view {
+    opacity: 1;
+    transform: translate3d(0px, 0px, 0px);
+}
+
+
+.css-animation-element.css-slide-right {
+    opacity: 0;
+    transition: all 0.3s ease-out;
+    transform: translate3d(100px, 0px, 0px);
+}
+
+.css-animation-element.css-slide-right.in-view {
+    opacity: 1;
+    transform: translate3d(0px, 0px, 0px);
+}
+
+
+.css-animation-element.css-slide-up {
+    opacity: 0;
+    transition: all 0.3s ease-out;
+    transform: translate3d(0px, 100px, 0px);
+}
+
+.css-animation-element.css-slide-up.in-view {
+    opacity: 1;
+    transform: translate3d(0px, 0px, 0px);
+}
+
+
+
+.css-animation-element.css-slide-down {
+    opacity: 0;
+    transition: all 0.6s ease-out;
+    transform: translate3d(0px, -100px, 0px);
+}
+
+.css-animation-element.css-slide-down.in-view {
+    opacity: 1;
+    transform: translate3d(0px, 0px, 0px);
+}
+
+
+
+.css-animation-element.css-with-delay-02{
+    transition-delay: 0.2s;
+}
+.css-animation-element.css-with-delay-04{
+    transition-delay: 0.4s;
+}
+.css-animation-element.css-with-delay-06{
+    transition-delay: 0.6s;
+}
+.css-animation-element.css-with-delay-08{
+    transition-delay: 0.8s;
+}

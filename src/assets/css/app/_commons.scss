@@ -1,0 +1,39 @@
+.label-resume {
+    @include label-variant($main-color-resume);
+}
+
+.btn-border {
+    @include button-variant($text-color, transparent, #cbcdcf);
+    font-size: 14px;
+    font-weight: 700;
+    padding: 18px 35px;
+    box-shadow: rgba(#000, 0) 0px 0px 7px 0px;
+    transition: box-shadow 0.3s ease;
+    &:hover{
+        box-shadow: rgba(#000, 0.3) 0px 10px 7px 0px;
+    }
+}
+html{
+    -webkit-font-smoothing: antialiased;
+    -webkit-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+}
+strong{
+    font-weight: 700;
+}
+section.resume-section{
+    margin: 50px 0px;
+}
+.section-title{
+    font-size: 30px;
+    font-weight: 600;
+    margin-bottom: 40px;
+    @media (min-width: $screen-sm-min) {
+        font-size: 34px;
+    }
+}
+a:hover{
+    background: $main-color-resume;
+    color: #FFF;
+    text-decoration: none;
+}

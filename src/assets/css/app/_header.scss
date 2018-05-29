@@ -1,0 +1,25 @@
+#header-bg{
+    height: 500px;
+    background: #08121c;
+    margin-bottom: -480px;
+    transition: margin-bottom 0.3s ease;
+}
+
+
+/**
+* Small Screen - Breack point
+*/
+@media (min-width: $screen-sm-min) {
+    #header-bg{
+        margin-bottom: -440px;
+    }
+}
+
+/**
+* Medium Screen - Breack point
+*/
+@media (min-width: $screen-md-min) {
+    #header-bg{
+        margin-bottom: -400px;
+    }
+}

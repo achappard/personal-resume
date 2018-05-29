@@ -1,0 +1,14 @@
+// Container sizes
+$grid-gutter-width:30px;
+$container-large-desktop: (936px + $grid-gutter-width);
+
+//Typography
+$font-family-sans-serif : 'Open Sans', sans-serif;
+
+$body-bg : #efefef;
+$text-color: #3d4451;
+$text-muted: #9da0a7;
+
+
+$main-color-resume: #fdb020;
+$link-color: darken($main-color-resume, 5%);

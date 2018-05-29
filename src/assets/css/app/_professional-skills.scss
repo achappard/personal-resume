@@ -1,0 +1,55 @@
+section#professional-skills{
+    .wrapper-list{
+        @include fond-blanc();
+        padding: 30px 20px;
+    }
+    .skill-title{
+        line-height: 2;
+    }
+    ul{
+        margin: 0;
+        li{
+            margin-bottom: 20px;
+            &:last-child{
+                margin-bottom: 0px;
+            }
+        }
+    }
+    .progress{
+        box-shadow: none;
+        height: 5px;
+        margin: 0;
+    }
+    .progress-bar{
+        box-shadow: none;
+
+    }
+    .progress-bar:nth-child(1),.progress-bar:nth-child(2){
+        transition-delay: 0.4s;
+    }
+    .progress-bar:nth-child(3),.progress-bar:nth-child(4){
+        transition-delay: 0.8s;
+    }
+    .progress-bar:nth-child(5),.progress-bar:nth-child(6){
+        transition-delay: 1.2s;
+    }
+    .progress-bar-achappard{
+        background-color: $main-color-resume;
+    }
+}
+
+/**
+* Small Screen - Breack point
+*/
+@media (min-width: $screen-sm-min) {
+    section#professional-skills{
+        ul{
+            li{
+                margin-bottom: 30px;
+                &:nth-child(5), &:nth-child(6){
+                    margin-bottom: 0px;
+                }
+            }
+        }
+    }
+}
