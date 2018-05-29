@@ -4,3 +4,4 @@
 .DS_Store
 /dist
 /.htaccess
+/content-parts/html/analytics.php

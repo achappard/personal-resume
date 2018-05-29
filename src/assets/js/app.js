@@ -30,13 +30,9 @@ var app = (function () {
                     $element.addClass('in-view');
 
                     if( $element.hasClass("progress-bar")){
-                        console.log($element.attr('aria-valuenow'));
-
                         $element.css('width',$element.attr('aria-valuenow') + "%" );
                     }
                 }
-
-
             });
         },
     };
