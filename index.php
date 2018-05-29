@@ -13,3 +13,6 @@
     <?php require_once( "content-parts/sections/footer.php" ) ?>
 </div>
 <?php require_once ("content-parts/html/footer.php"); ?>
+<?php require_once ("content-parts/html/analytics.php"); ?>
+</body>
+</html>

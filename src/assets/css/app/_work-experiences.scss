@@ -133,6 +133,18 @@ section#work-experiences{
                     }
                 }
             }
+            li:nth-child(1) {
+                &:before{
+                    top: 141px;
+                }
+                .timeline-wrapper{
+                    .timeline-background{
+                        &:before{
+                            top: 120px;
+                        }
+                    }
+                }
+            }
             li:nth-child(2), li:nth-child(6) {
                 margin-top: 70px;
             }

@@ -10,6 +10,3 @@
 	<script src="dist/assets/js/app.min.js"></script>
 <?php endif; ?>
 
-<?php require_once ('analytics.php'); ?>
-</body>
-</html>
