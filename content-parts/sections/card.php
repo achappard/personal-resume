@@ -11,27 +11,27 @@ $holiday_end_date = 20180826;
 
 $activity = array(
 	'holiday' => array(
-		'label'       => '<span class="label label-resume">En congé ⛱</span>',
+		'label'       => '<span class="label label-resume">En congé</span>',
 		'description' => '<span class="icon icon-calendar"></span> jusqu’au 25 août 2018'
 	),
 	'work'    => array(
-		'en train de coder 🖥',
-		'en train d\'écrire mes tâches Gulp 🖥',
-		'en train coder un site sous Wordpress 🖥',
-		'en train d\'écrire du HTML 🖥',
-		'en train coder un site CodeIgniter 🖥',
-		'au téléphone 📞',
-		'en train d\'éxécuter des requêtes SQL sur une BDD 🖥',
-		'en train de réaliser un devis 📄',
-		'en rendez-vous client 🤝',
-		'en train réaliser une maquette html responsive 📱',
-		'en train prendre un thé 🍵',
-		'en train d\'écrire une feuille de style 🖥',
-		'en train de rédiger une réponse à un appel d\'offre 🤔',
-		'en train d\'écrire du PHP 🖥',
-		'en train prendre un café ☕️',
+		'en train de coder',
+		'en train d\'écrire mes tâches Gulp',
+		'en train coder un site sous Wordpress',
+		'en train d\'écrire du HTML',
+		'en train coder un site CodeIgniter',
+		'au téléphone',
+		'en train d\'éxécuter des requêtes SQL sur une BDD',
+		'en train de réaliser un devis',
+		'en rendez-vous client',
+		'en train réaliser une maquette html responsive',
+		'en train prendre un thé',
+		"en train d\'écrire une feuille de style CSS",
+		"en train de rédiger une réponse à un appel d'offre",
+		'en train d\'écrire du PHP',
+		'en train prendre un café️',
 		'en train de faire un peu de prospection',
-        'en train de reprendre le développement d\'un autre développeur 😱'
+        'en train de reprendre le développement d\'un autre développeur...'
 	)
 );
 
