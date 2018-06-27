@@ -9,7 +9,7 @@
     <meta property="og:url" content="https://www.aurelienchappard.fr" />
     <meta property="og:image" content="https://www.aurelienchappard.fr/dist/assets/img/aurelien-chappard.jpg?v=2" />
     <meta property="og:description" content="Bonjour, je suis Aurélien CHAPPARD, concepteur développeur multimédia à Lyon. Fort de 12 années d’expérience et spécialisé dans le développement front-end PHP, je peux répondre à votre problématique de développement de site internet Wordpress et plus généralement PHP. N'hésitez pas à consulter mon site professionnel afin de parcourir mes références." />
-    <title>Aurélien Chappard - Développeur Web - Wordpress - Codeigniter & PHP sur Lyon</title>
+    <title>Aurélien Chappard - Développeur Freelance Web - Wordpress - Codeigniter & PHP sur Lyon</title>
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">

@@ -257,6 +257,10 @@ gulp.task('watch', function () {
 
 
     // Watch des _partials Scss, du code HTML, du JS
+     console.log(paths.styles.sass.files);
+    console.log(paths.src);
+    
+    
     gulp.watch([paths.styles.sass.files], {cwd: paths.src}, ['css']);
     gulp.watch([paths.scripts.files], {cwd: paths.src}, ['js', browserSync.reload]);
     gulp.watch([paths.php.files]).on("change", browserSync.reload);
