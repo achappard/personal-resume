@@ -41,7 +41,7 @@ $activity = array(
         <div class="row">
             <div class="col-sm-5">
                 <div id="photo">
-                    <img src="dist/assets/img/aurelien-chappard.jpg" class="img-responsive center-block" alt="Photo portrait d'Aurélien Chappard">
+                    <img src="dist/assets/img/aurelien-chappard.jpg?v=2" class="img-responsive center-block" alt="Photo portrait d'Aurélien Chappard">
                 </div>
             </div>
             <div class="col-sm-7">
