@@ -48,7 +48,7 @@ $activity = array(
                 <div id="wrapper-info">
                     <p>Bonjour</p>
                     <h1><span>Je suis</span> Aurélien Chappard</h1>
-                    <h2>Développeur Web - Wordpress - Codeigniter - PHP <span class="sr-only">sur Lyon</span></h2>
+                    <h2>Développeur Freelance Web - Wordpress - Codeigniter - PHP <span class="sr-only">sur Lyon</span></h2>
                     <hr>
                     <dl class="dl-horizontal">
                         <dt>Age</dt>

@@ -4,7 +4,7 @@
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
-    <meta property="og:title" content="Aurélien Chappard - Développeur Web - Wordpress - Codeigniter & PHP sur Lyon" />
+    <meta property="og:title" content="Aurélien Chappard - Développeur Freelance Web - Wordpress - Codeigniter & PHP sur Lyon" />
     <meta property="og:type" content="article" />
     <meta property="og:url" content="https://www.aurelienchappard.fr" />
     <meta property="og:image" content="https://www.aurelienchappard.fr/dist/assets/img/aurelien-chappard.jpg?v=2" />
