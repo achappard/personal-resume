@@ -59,7 +59,7 @@ $activity = array(
                         <dd class="text-muted">06 86 49 67 94</dd>
                         <dt>Freelance</dt>
                         <dd class="text-muted">depuis Juillet 2011</dd>
-	                    <?php echo current_activity($is_holiday, $holiday_end_date, $activity);?>
+	                    <?php echo stripslashes(current_activity($is_holiday, $holiday_end_date, $activity));?>
                     </dl>
                 </div>
             </div>
